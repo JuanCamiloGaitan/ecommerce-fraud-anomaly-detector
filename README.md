@@ -1,9 +1,5 @@
 # E-commerce Fraud & Anomaly Detector
 
-![Python](https://img.shields.io/badge/Python-3.0%2B-blue)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)
-![Status](https://completed-shield.svg)
-
 [Read in Spanish / Leer en español](#-español)
 
 ---
